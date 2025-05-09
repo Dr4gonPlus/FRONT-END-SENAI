@@ -4,4 +4,6 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 
 | DESCRIÇÃO | LINK DA AULA |
 |:-:|:-:|
-| AULA SOBRE FLUXOGRAMA | [EXEMPLO 1](./Aulas/Aula%202%20Fluxo%20material.png)/[EXEMPLO 2](./Aulas/AULA%202%20EXEMPLO%202.png) |
+| AULA 1 LÓGICA COM PORTUGOL | |
+| AULA 2 FLUXOGRAMA | [EXEMPLO 1](./Aulas/Aula%202%20Fluxo%20material.png) / [EXEMPLO 2](./Aulas/AULA%202%20EXEMPLO%202.png) |
+
