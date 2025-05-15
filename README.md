@@ -1,6 +1,6 @@
 # Curso de Front end do Senai
 
-Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam aperfeiçoar a Lógica de Programação, Html5, CSS3 e Bootstrap é Javascript.
+Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam aperfeiçoar a Lógica de Programação, Html5, CSS3, Bootstrap e Javascript.
 
 | DESCRIÇÃO | LINK DA AULA |
 |:-:|:-:|
