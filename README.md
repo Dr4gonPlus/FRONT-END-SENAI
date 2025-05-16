@@ -4,9 +4,9 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 
 | DESCRIÇÃO | LINK DA AULA |
 |:-:|:-:|
-| AULA 1 INTRODUÇÃO | LÓGICA COM PORTUGOL |
+| AULA 1 INTRODUÇÃO | [Sintaxe Portugol](./Aulas/Sintaxeportugol.md) |
 | AULA 2 FLUXOGRAMA | [EXEMPLO 1](./Aulas/Aula%202%20Fluxo%20material.png) / [EXEMPLO 2](./Aulas/AULA%202%20EXEMPLO%202.png) |
 | AULA 3 CONDICIONAL | [ATIVIDADE PORTUGAL](./Aulas/SALVARNOTAS.ALG) | 
-| AULA 4 REPETIÇÕES E CONDICIONAL | LÓGICA COM PORTUGOL |
-| AULA 5 PROCEDIMENTOS | LÓGICA COM PORTUGOL | 
-| AULA 6 WHILE E UNTIL | LÓGICA COM PORTUGOL |
+| AULA 4 REPETIÇÕES | [LÓGICA COM PORTUGOL](./Aulas/Repeticao.md) |
+| AULA 5 PROCEDIMENTOS | [LÓGICA COM PORTUGOL](./Aulas/procedimentos.md) | 
+| AULA 6 WHILE E UNTIL | [LÓGICA COM PORTUGOL](./Aulas/EXPLICAÇÃO%20AULA%206.png) |
