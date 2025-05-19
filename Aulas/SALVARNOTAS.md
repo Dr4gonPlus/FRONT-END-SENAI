@@ -1,19 +1,19 @@
 Algoritmo "SalvarNotas"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
 // Professor   : Victor
-// Descrição   : Desenvolve um sistema onde existe uma maneira de salvar as notas de Jõao, Maria ou Pedro. O usuário deverá selecionar qual aluno deverá ter a nota salva! e assim que salva, mostre uma mensagem ao usuario
-// Autor(a)    : Jó
+// Descriï¿½ï¿½o   : Desenvolve um sistema onde existe uma maneira de salvar as notas de Jï¿½ao, Maria ou Pedro. O usuï¿½rio deverï¿½ selecionar qual aluno deverï¿½ ter a nota salva! e assim que salva, mostre uma mensagem ao usuario
+// Autor(a)    : JC
 // Data atual  : 13/05/2025
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
 
    nomeAluno : caractere
    notaAluno : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
 
-   escreva("Digite o nome do aluno (João, Maria ou Pedro): ")
+   escreva("Digite o nome do aluno (Joï¿½o, Maria ou Pedro): ")
     leia(nomeAluno)
                    
    escreva("Digite a nota de ", nomeAluno, ": ")

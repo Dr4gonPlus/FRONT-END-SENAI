@@ -11,3 +11,4 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 5 PROCEDIMENTOS | [LÓGICA COM PORTUGOL](./Aulas/procedimentos.md) | 
 | AULA 6 TIPOS DE REPETIÇÕES | [LÓGICA COM PORTUGOL](./Imagens/EXPLICAÇÃO%20AULA%206.png) |
 | AULA 7 VETORES | [LÓGICA COM PORTUGOL](./Aulas/VETORES.MD) |
+| AULA 8 REVISÃO | [ATIVIDADE PORTUGOL] |

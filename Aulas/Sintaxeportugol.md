@@ -2,7 +2,7 @@ Algoritmo "Material aula 1"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Victor Santos Rohod
 // Descrição   : Aula 1 - Intrdodução
-// Autor(a)    : Victor Santos Rohod
+// Autor(a)    : JC
 // Data atual  : 08/05/2025
 Var
 // Seção de Declarações das variáveis
