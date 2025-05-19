@@ -9,4 +9,5 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 3 CONDICIONAL | [ATIVIDADE PORTUGAL](./Aulas/SALVARNOTAS.md) | 
 | AULA 4 REPETIÇÕES | [LÓGICA COM PORTUGOL](./Aulas/Repeticao.md) |
 | AULA 5 PROCEDIMENTOS | [LÓGICA COM PORTUGOL](./Aulas/procedimentos.md) | 
-| AULA 6 WHILE E UNTIL | [LÓGICA COM PORTUGOL](./Imagens/EXPLICAÇÃO%20AULA%206.png) |
+| AULA 6 TIPOS DE REPETIÇÕES | [LÓGICA COM PORTUGOL](./Imagens/EXPLICAÇÃO%20AULA%206.png) |
+| AULA 7 VETORES | [LÓGICA COM PORTUGOL](./Aulas/VETORES.MD) |
