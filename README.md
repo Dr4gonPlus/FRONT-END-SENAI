@@ -7,7 +7,7 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 1 INTRODUÇÃO | INTRODUÇÃO AO GITHUB | 
 | AULA 2 INTRODUÇÃO | [Sintaxe PORTUGOL](./Aulas/Sintaxeportugol.md) |
 | AULA 3 FLUXOGRAMA | [EXEMPLO 1](./Imagens/Aula%202%20Fluxo%20material.png) / [EXEMPLO 2](./Imagens/AULA%202%20EXEMPLO%202.png) |
-| AULA 4 CONDICIONAL | [ATIVIDADE PORTUGOL](./Aulas/SALVARNOTAS.md) | 
+| AULA 4 CONDICIONAL | [LÓGICA COM PORTUGOL](./Aulas/SALVARNOTAS.md) | 
 | AULA 5 REPETIÇÕES | [LÓGICA COM PORTUGOL](./Aulas/Repeticao.md) |
 | AULA 6 PROCEDIMENTOS | [LÓGICA COM PORTUGOL](./Aulas/procedimentos.md) | 
 | AULA 7 TIPOS DE REPETIÇÕES | [LÓGICA COM PORTUGOL](./Imagens/EXPLICAÇÃO%20AULA%206.png) |
