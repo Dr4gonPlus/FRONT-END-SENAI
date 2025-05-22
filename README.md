@@ -2,6 +2,8 @@
 
 Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam aperfeiçoar a Lógica de Programação, Html5, CSS3, Bootstrap e Javascript.
 
+
+## LÓGICA DE PROGRAMAÇÃO
 | DESCRIÇÃO | LINK DA AULA |
 |:-:|:-:|
 | AULA 1 INTRODUÇÃO | INTRODUÇÃO AO GITHUB | 
@@ -15,4 +17,7 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 9 REVISÃO | REVISÃO PARA A PROVA DE LÓGICA EM PORTUGOL |
 | AULA 10 PROVA | [QUESTÃO 1](./Aulas/Prova/BUSCARNOME.ALG) / [QUESTÃO 2](./Aulas/Prova/COMPARAVETORES.ALG) / [QUESTÃO 3](./Aulas/Prova/MEDIANOTAS.ALG) / [QUESTÃO 4](./Aulas/Prova/PESQUISAPREFEITURA.ALG) / [QUESTÃO 5](./Aulas/Prova/VERIFICARSALDO.ALG) | 
 
-
+## HTML E CSS
+| DESCRIÇÃO | LINK DA AULA |
+| :-: | :-: |
+| AULA 1 INTRODUÇÃO AO HTML | [ATIVIDADE 1](./Aulas/HTML&CSS/Html/atividade1.html) | 
