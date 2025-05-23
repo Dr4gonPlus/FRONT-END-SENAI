@@ -20,4 +20,5 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 ## HTML E CSS
 | DESCRIÇÃO | LINK DA AULA |
 | :-: | :-: |
-| AULA 1 INTRODUÇÃO AO HTML | [ATIVIDADE 1](./Aulas/HTML&CSS/Html/atividade1.html) | 
+| AULA 1 INTRODUÇÃO AO HTML | [AULA 1](./Aulas/HTML&CSS/Html/Aula1Index.html) / [ATIVIDADE 1](./Aulas/HTML&CSS/Html/atividade1.html) | 
+| AULA 2 INTRODUÇÃO AO CSS | [AULA 2](./Aulas/HTML&CSS/Html/Aula2Index.html) |
