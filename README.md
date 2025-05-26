@@ -2,7 +2,6 @@
 
 Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam aperfeiçoar a Lógica de Programação, Html5, CSS3, Bootstrap e Javascript.
 
-
 ## LÓGICA DE PROGRAMAÇÃO
 | DESCRIÇÃO | LINK DA AULA |
 |:-:|:-:|
@@ -20,5 +19,6 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 ## HTML E CSS
 | DESCRIÇÃO | LINK DA AULA |
 | :-: | :-: |
-| AULA 1 INTRODUÇÃO AO HTML | [AULA 1](./Aulas/HTML&CSS/Html/Aula1Index.html) / [ATIVIDADE 1](./Aulas/HTML&CSS/Html/atividade/atividade1.html) | 
-| AULA 2 INTRODUÇÃO AO CSS | [AULA 2](./Aulas/HTML&CSS/Html/Aula2Index.html) / [ATIVIDADE 2](./Aulas/HTML&CSS/Html/atividade/atividade2.html) |
+| AULA 1 INTRODUÇÃO AO HTML | [AULA 1](HTML&CSS/Aula/Aula1Index.html) / [ATIVIDADE 1](HTML&CSS/atividade/atividade1.html) | 
+| AULA 2 INTRODUÇÃO AO CSS | [AULA 2](HTML&CSS/Aula/Aula2Index.html) / [ATIVIDADE 2](HTML&CSS/atividade/atividade2.html) |
+| AULA 3 |  |

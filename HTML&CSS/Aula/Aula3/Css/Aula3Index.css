@@ -1,0 +1,83 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body{
+
+    background: white
+
+}
+
+header,footer{
+
+    font-family: "Playwrite HU", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+    width: 100%;
+    /* height: 80px; */
+    
+    /* espaçamento interno */
+    /* 10px (todos os lados) */
+    /* 10px 10px (eixo y, cima, baixo / eixo x, esquerda direita) */
+    /* 10 px 10px 10px 10px (cima, direita, baixo, esquerda), "relogio"  */
+     
+    padding: 20px 0px;
+
+     /*  OU 
+
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 15px */
+
+
+
+    /* espaçamento externo */
+    margin-bottom: 20px;
+
+    text-align: center;
+
+    background-color: orange;
+
+}
+
+main{
+
+    font-family: "Playwrite DK Loopet", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+    margin: 20px 0px;
+
+    text-align: center;
+
+}
+
+#banner{
+
+    border-radius: 10px;
+
+}
+
+main{
+
+    font-family: "Playwrite HU", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+h1{
+
+    font-family: "Playwrite DK Loopet", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
