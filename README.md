@@ -21,6 +21,6 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | :-: | :-: |
 | AULA 1 INTRODUÇÃO AO HTML | [AULA 1](HTML&CSS/Aula/Aula1Index.html) / [ATIVIDADE 1](HTML&CSS/atividade/atividade1.html) | 
 | AULA 2 INTRODUÇÃO AO CSS | [AULA 2](HTML&CSS/Aula/Aula2Index.html) / [ATIVIDADE 2](HTML&CSS/atividade/atividade2.html) |
-| AULA 3 espaçamentos e nav | [ATIVIDADE](HTML&CSS/Aula/Aula3/) |
-| AULA 4 Flexbox | [AULA 4](HTML&CSS/Aula/Aula4/) |
-| AULA 5 |  |  
+| AULA 3 ESPAÇAMENTOS E NAVS | [ATIVIDADE](HTML&CSS/Aula/Aula3/) |
+| AULA 4 FLEXBOX | [AULA 4](HTML&CSS/Aula/Aula4/) |
+| AULA 5 PORTIFÓLIO |  |  
