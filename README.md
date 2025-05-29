@@ -5,9 +5,7 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 ## LÓGICA DE PROGRAMAÇÃO
 
 | DESCRIÇÃO | LINK DA AULA |
-
 |:-:|:-:|
-
 | AULA 1 INTRODUÇÃO | INTRODUÇÃO AO GITHUB |
 | AULA 2 INTRODUÇÃO | [Sintaxe PORTUGOL](./Aulas/Sintaxeportugol.md) |
 | AULA 3 FLUXOGRAMA | [EXEMPLO 1](./Imagens/Aula%202%20Fluxo%20material.png) / [EXEMPLO 2](./Imagens/AULA%202%20EXEMPLO%202.png) |
