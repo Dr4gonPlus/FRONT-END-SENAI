@@ -23,4 +23,5 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 2 INTRODUÇÃO AO CSS | [AULA 2](HTML&CSS/Aula/Aula2Index.html) / [ATIVIDADE 2](HTML&CSS/atividade/atividade2.html) |
 | AULA 3 ESPAÇAMENTOS E NAVS | [ATIVIDADE](HTML&CSS/Aula/Aula3/) |
 | AULA 4 FLEXBOX | [AULA 4](HTML&CSS/Aula/Aula4/) |
-| AULA 5 PORTIFÓLIO |  |  
+| AULA 5 PORTIFÓLIO | [PEIXE GRANDE](https://github.com/Dr4gonPlus/PeixeGrande.git) |
+| AULA 6 ANIMAÇÃO | [AULA 5](HTML&CSS/Aula/Aula6/) |
