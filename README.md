@@ -27,3 +27,5 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 4 FLEXBOX | [AULA 4](HTML&CSS/Aula/Aula4/) |
 | AULA 5 PORTIFÓLIO | [PEIXE GRANDE](https://github.com/Dr4gonPlus/PeixeGrande.git) |
 | AULA 6 ANIMAÇÃO | [AULA 6](HTML&CSS/Aula/Aula6/) |
+| AULA 7 FORMULARIO | [AULA 7](HTML&CSS/Aula/Aula7/) |
+| AULA 8 FONTE | [AULA 8](HTML&CSS/Aula/Aula8/) | 
