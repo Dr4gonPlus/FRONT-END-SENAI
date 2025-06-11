@@ -30,8 +30,8 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 7 FONTE | [AULA 7](HTML&CSS/Aula/Aula7/) |
 | AULA 8 TABELAS E PSEUDOCLASSE | [AULA 8](HTML&CSS/Aula/Aula8/) |
 | AULA 9 LISTAS | [AULA 9](HTML&CSS/Aula/Aula9/) |
-| AULA 10 | [AULA 10](HTML&CSS/Aula/Aula10/) |
-| AULA 11 | [AULA 11](HTML&CSS/Aula/Aula11/) |
+| AULA 10 RESPONSIVIDADE | [AULA 10](HTML&CSS/Aula/Aula10/) |
+| AULA 11 INTRODUÇÃO BOOTSTRAP | [AULA 11](HTML&CSS/Aula/Aula11/) |
 
 ## PORTIFÓLIO
 
