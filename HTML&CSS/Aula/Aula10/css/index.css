@@ -1,15 +1,6 @@
-* {
-    margin: 0%;
+*{
     padding: 0%;
-}
-
-/* https://fonts.google.com/icons */
-/* https://icons.getbootstrap.com/ */
-.assunto {
-    width: 80%;
-    padding: 20px;
-    margin: 20px auto;
-    background-color: rgb(228, 228, 228);
+    margin: 0%;
 }
 
 header{
@@ -17,8 +8,15 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(43, 43, 43);
-    padding: 10px 0px;
+    padding: 20px 0px;
+    background-color: darkcyan;
+}
+
+main{
+    width: 80%;
+    margin: 20px auto;
+    background-color: rgb(203, 203, 203);
+    padding: 20px;
 }
 
 ul{
@@ -28,18 +26,54 @@ ul{
 }
 
 a{
-    color: white;
     text-decoration: none;
+    color: white;
 }
 
-a:hover{
-    color: crimson;
+main img{
+    width: 100%;
 }
 
-#linkSobre:hover{
-    color: rgb(8, 216, 8);
+#navMobile{
+    display: none;
 }
 
-#logo img{
-    width: 24px;
+@media screen and ( min-width: 1000px ){
+    body{
+        background-color: red;
+    }
+}
+
+@media print{
+    p{
+        color: green;
+    }
+}
+
+header button{
+    display: none;
+}
+
+@media screen and ( max-width: 1000px ){
+    body{
+        background-color: rgb(0, 68, 255);
+    }
+
+    header button{
+        display: flex;
+    }
+
+    #navMobile{
+        display: flex;
+        width: 100%;
+        background-color: rgb(32, 32, 32);
+        flex-direction: column;
+        align-items: center;
+        position: fixed;
+        bottom: 0%;
+    }
+
+    #navPc{
+        display: none;
+    }
 }

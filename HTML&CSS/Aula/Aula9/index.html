@@ -1,196 +1,66 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabelas e Pseudoclasses</title>
+    <title>Document</title>
     <link rel="stylesheet" href="styles/all.css">
 </head>
+<!-- https://www.w3schools.com/html/html_lists_unordered.asp -->
 <body>
-    <section id="tabela">
-        <h3>TABELAS</h3>
-        <table>
-            <tr>
-                <th>/</th>
-                <th>A</th>
-                <th>B</th>
-                <th>C</th>
-            </tr>
-            <tr>
-                <th>1</th>
-                <td>A1</td>
-                <td>B1</td>
-                <td>C1</td>
-            </tr>
-            <tr>
-                <th>2</th>
-                <td>A2</td>
-                <td>B2</td>
-                <td>C2</td>
-            </tr>
-             <tr>
-                <th>3</th>
-                <td>A3</td>
-                <td>B3</td>
-                <td>C3</td>
-            </tr>
-        </table>
-    </section>
-    <section id="pseudo">
-        <input placeholder="Olá" type="text">
-        <div id="caixa">
-            :)
+    <div class="assunto">
+        <!-- LISTA NÃO ORDENADA (UN ORDERED LIST) -->
+        <!-- A ORDEM DOS ITENS NÃO IMPORTAM -->
+        <!-- SQUARE - QUADRADO -->
+        <!-- CIRCLE - BOLINHA SEM PREENCHIMENTO -->
+        <h3>LISTA DE MERCADO</h3>
+        <ul type="circle">
+            <!-- ITEM LISTA (LIST ITEM) -->
+            <!-- ELEMENTO QUE FAZ PARTE DA LISTA -->
+            <li>Arroz</li>
+            <li>Açucar</li>
+            <li>Batata</li>
+        </ul>
+    </div>
+
+    <div class="assunto">
+        <!-- LISTA ORDERNADA (ORDERED LIST) -->
+        <!-- LISTA ONDE A ORDEM DOS ITEMS IMPORTAM! -->
+        <h3>MODO DE PREPARO</h3>
+        <ol type="i">
+            <li>UNTE A FRIGIDEIRA</li>
+            <li>BATA OS OVOS COM OLEO E FARINHA</li>
+            <li>COLOQUE O CHOCOLATE EM PÓ</li>
+            <li>...</li>
+        </ol>
+    </div>
+
+    <div class="assunto">
+        <h3>DICIONARIO</h3>
+        <!-- LISTA DE DICIONARIO (DICIONARY LIST) -->
+        <!-- LISTA DE ELEMENTOS QUE, USAM UM TERMO E O EXPLICA -->
+        <dl>
+            <!-- TERMO DO DICIONARIO (DICTIONARY TERM)-->
+            <dt>FRONT END</dt>
+            <!-- DESCRIÇÃO DO DICIONARIO (DICTIONARY DESCRIPTION) -->
+            <dd>Parte frontal de um sistema ou website</dd>
+        </dl>
+    </div>
+
+    <header>
+        <div id="logo">
+            <img src="images/airplane-engines-fill.svg" alt="Img da logo">
         </div>
-    </section>
-    <!-- table - puxa tabela -->
-    <!-- th - 'table heading', titulo da tabela -->
-    <!-- td - 'table data', dados da tabela -->
-    <!-- tr - 'table row', linha da tabela -->
-    <!-- thead, tbody , tfoot - mesma organização do html padrão, sendo cabecalho, corpo e rodape-->
-    <!-- colspan , rowspan - mesclar colunas ou linhas -->
-    <section id="tabelaCompleta">
-        <table>
-            <thead>
-                <tr>
-                    <th>/</th>
-                    <th>NOME</th>
-                    <th>TIPO</th>
-                    <th>VALOR</th>
-                    <th>PESO</th>
-                </tr>       
-            </thead>
-
-            <tbody>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-                <tr>
-                    <th>1</th>
-                    <td>QUEIJO</td>
-                    <td>MUSSARELA</td>
-                    <td>R$ 7.99</td>
-                    <td>150g</td>
-                </tr>
-            </tbody>
-
-            <tfoot>
-                <tr>
-                    <th colspan="4">SUBTOTAL</th>
-                    <td>R$ 500</td>
-                </tr>
-            </tfoot>
-        </table>
-        <div id="espaco"></div>
-
-    </section>
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a id="linkSobre" href="#">SOBRE</a></li>
+                <li><a href="#">CATALOGO</a></li>
+                <li><a href="#">CONTATO</a></li>
+            </ul>
+        </nav>
+    </header>
 </body>
+
 </html>
