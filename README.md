@@ -39,3 +39,9 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | DESCRIÇÃO | LINK DA AULA |
 | :-: | :-: |
 | PORTIFÓLIO 1 | [PEIXE GRANDE](https://github.com/Dr4gonPlus/PeixeGrande.git) |
+
+### AUXILIARES
+
+| DESCRIÇÃO | LINK |
+| :-: | :-: |
+| DICIONARIO BOOTSTRAP | [LINK DICIONARIO](https://github.com/VSRohod/bootstrapDictionary.git) |
