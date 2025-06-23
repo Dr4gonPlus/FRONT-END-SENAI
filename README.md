@@ -34,6 +34,12 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 11 INTRODUÇÃO BOOTSTRAP | [AULA 11](HTML&CSS/Aula/Aula11/) |
 | AULA 12 BOOTSTRAP MODAL E TABELA | [AULA 12](HTML&CSS/Aula/Aula12/) |
 
+## JAVASCRIPT
+
+| DESCRIÇÃO | LINK DA AULA |
+| :-: | :-: |
+| AULA 1 INTRODUÇÃO AO JAVASCRIPT | [AULA 1](JavaScript/Aula1/) |
+
 ## PORTIFÓLIO
 
 | DESCRIÇÃO | LINK DA AULA |
