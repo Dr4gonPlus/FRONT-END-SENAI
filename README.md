@@ -39,6 +39,7 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | DESCRIÇÃO | LINK DA AULA |
 | :-: | :-: |
 | AULA 1 INTRODUÇÃO AO JAVASCRIPT | [AULA 1](JavaScript/Aulas/Aula1/) |
+| AULA 2 CONDIONAL | [AULA 2](JavaScript/Aulas/Aula2/) |
 
 ## PORTIFÓLIO
 
