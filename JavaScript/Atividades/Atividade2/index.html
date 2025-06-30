@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Exer.JS </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <link rel="stylesheet" href="style/all.css">
+    
+    
+</head>
+
+<body>
+  
+    <main class="container-lg">
+
+        <div class="container-lg">
+        
+        <label for="endereco"> Digite o endereço: </label>
+        <input type="text" id="endereco" placeholder="https//exemplo.com">
+        <button onclick="abrirPagina()">Ir</button> <br><br>
+
+        </div>    
+
+        <div class="container-lg">
+
+        <label for="site"> Escolha um site: </label>
+        <select name="escolha" onchange="acessarSite(this)">
+
+            <option value="https://www.globo.com/"> Globo </option>
+            <option value="https://www.terra.com.br/"> Terra </option>
+            <option id="uol" value="https://www.uol.com.br/"> Uol </option>
+
+        </select>
+
+        </div>
+
+        <div>
+
+            <label for="usuario"> Usuário: </label>
+            <input type="text" id="usuario" name="usuario"><br><br>
+            
+            
+            <label for="senha"> Senha: </label>
+            <input type="password" id="senha" name="senha"><br><br>
+
+            <button onclick="verificarLogin()"> Entrar </button>
+
+        </div>
+
+        <div>
+
+            <br><br><label for="valor"> Valor: </label>
+            <input type="number" id="valor"><br><br>
+            
+            <label for="percentual"> % Percentual: </label>
+            <input type="number" id="percentual" onblur="calcularPercentual"><br><br>
+
+        </div>
+    
+    </main>
+
+    <script src="script/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+</body>
+
+</html>
