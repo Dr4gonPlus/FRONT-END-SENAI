@@ -46,7 +46,8 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 6 API | [AULA 6](JavaScript/Aulas/Aula6/) |
 | AULA 7 CARRO | [AULA 7](JavaScript/Aulas/Aula7/) |
 | AULA 8 REVISÃO 1 | [REVISÃO 8](Revisão1/) |
-| AULA 9 REVISÃO 2 | [REVISÃO 9](Revisão2/) |d
+| AULA 9 REVISÃO 2 | [REVISÃO 9](Revisão2/) |
+| AULA 10 JQUERY | [AULA 10](Jquery/) |
 
 ## PORTIFÓLIO
 
@@ -59,4 +60,5 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | DESCRIÇÃO | LINK |
 | :-: | :-: |
 | DICIONARIO BOOTSTRAP | [LINK DICIONARIO](https://github.com/VSRohod/bootstrapDictionary.git) |
-| Jquery | [LINK JQUERY](Jquery/) |
+| DOCUMENTAÇÃO BOOTSTRAP | [LINK DOCUMENTAÇÃO](https://getbootstrap.com/docs/5.3/getting-started/introduction/) |
+| DOCUMENTAÇÃO Jquery | [LINK DOCUMENTAÇÃO](https://api.jquery.com/) |
