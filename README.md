@@ -42,8 +42,11 @@ Curso fornecido pelo SENAI. O objetivo, é capacitar os alunos para que possam a
 | AULA 2 PROCEDIMENTO E CONDIONAL | [AULA 2](JavaScript/Aulas/Aula2/) |
 | AULA 3 REPETIÇÃO E ARRAY | [AULA 3](JavaScript/Aulas/Aula3/) |
 | AULA 4 DOM | [AULA 4](JavaScript/Aulas/Aula4/) |
-| AULA 5 POO | [AULA 5](JavaScript/Aulas/Aula5/) | 
+| AULA 5 POO | [AULA 5](JavaScript/Aulas/Aula5/) |
 | AULA 6 API | [AULA 6](JavaScript/Aulas/Aula6/) |
+| AULA 7 CARRO | [AULA 7](JavaScript/Aulas/Aula7/) |
+| AULA 8 REVISÃO 1 | [REVISÃO 8](Revisão1/) |
+| AULA 9 REVISÃO 2 | [REVISÃO 9](Revisão2/) |
 
 ## PORTIFÓLIO
 
